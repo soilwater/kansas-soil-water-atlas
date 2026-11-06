@@ -1,0 +1,4 @@
+# analysis files made by code/build_cube.ipynb and code/counties.ipynb (about 420 MB); rebuilt from the kansas-1km model output
+data/
+.ipynb_checkpoints/
+__pycache__/
